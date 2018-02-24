@@ -1,0 +1,95 @@
+/*
+Theme Name: Mount Everest
+Theme URI: https://codefactory.academy/madiha_attress
+Author: Madiha_Attress
+Author URI: https://codefactory.academy/madiha-attress
+Description: CodeReview12
+Version: 1.0
+
+
+
+
+--------------------------------------------------------------*/
+body{
+	background-color: black;
+}
+#pic1{
+	height: 300px;
+}
+#pic2{
+	height: 300px;
+}
+#pic3{
+	height: 300px;
+}
+
+
+.blog-masthead{
+	background-color: black;
+	color: white;
+}
+.jumbo1{
+	background-image: url('2.jpg');
+	background-size: 100%;
+	color: black;
+	padding-left: 2%;
+}
+
+/* MAIN AREA____________________________________________ */
+.thumbnails{
+	width: 100px;
+	float: left;
+}
+.post{
+	display: inline-block;
+	float: left;
+}
+.img img{
+	/* display: inline-block; */
+	max-width: 50%;
+	height: auto;
+}
+/* SIDEBAR_________________________________________________ */
+.sidebar-module ul{
+  list-style: none;
+  font-size: 1.5em;
+}
+/* FOOTER_________________________________________________ */
+footer{
+	background-color: black;
+	padding: 2%;
+	color: lightgray;
+}
+.footer_text{
+	text-align: center
+}
+hr{
+	background-color: white;
+}
+.fcontainer{
+	text-align: center;
+}
+/* front page______________________________________- */
+.jumbo2{
+	width: 1000px;
+	color: black;
+	padding: 2%;
+	height: 500px;
+	margin: 0px;
+	font-size: 2em;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+}
+
+h1, .h1 {
+    font-size: 36px;
+}
+h3, .h3 {
+    font-size: 36px;
+}
